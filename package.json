@@ -1,0 +1,25 @@
+{
+  "name": "node101",
+  "version": "1.0.0",
+  "description": "node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShayanneSamarasinghe/node101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShayanneSamarasinghe/node101/issues"
+  },
+  "homepage": "https://github.com/ShayanneSamarasinghe/node101#readme",
+  "dependencies": {
+    "ascii": "^1.0.0",
+    "ascii-cats": "^1.1.1",
+    "cats": "0.0.2"
+  }
+}
